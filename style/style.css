@@ -142,3 +142,18 @@ a{
     border-radius: 999px;
 
 }
+
+.rodape {
+    margin-top: 40px;
+    padding: 25px;
+    background-color: #acbedb;
+    text-align: center;
+}
+
+.rodape address{
+    font-style: normal;
+}
+
+.rodape a{
+    text-decoration: none;
+}
