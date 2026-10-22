@@ -36,6 +36,10 @@ a{
 
 }
 
+code, pre{
+    font-family: Consolas, "Courier new", monospace;
+}
+
 .container{
     width: 90%;
     max-width: 1000px;
@@ -100,7 +104,8 @@ a{
 }
 
 .secao{
-    padding: 72px 0;
+    padding: 72px;
+
 }
 
 .titulo-secao{
